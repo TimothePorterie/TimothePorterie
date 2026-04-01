@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor { animation: blink 1.2s step-end infinite; }
+    </style>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.4" fill="#1a1a1a"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="160" fill="#0a0a0a" rx="6"/>
+
+  <!-- Dot grid -->
+  <rect width="800" height="160" fill="url(#grid)" rx="6"/>
+
+  <!-- Frame lines -->
+  <line x1="40" y1="32" x2="760" y2="32" stroke="#1f1f1f" stroke-width="0.5"/>
+  <line x1="40" y1="128" x2="760" y2="128" stroke="#1f1f1f" stroke-width="0.5"/>
+
+  <!-- Corner marks -->
+  <path d="M 30 27 L 30 40 M 30 27 L 43 27" stroke="#333" stroke-width="0.8" fill="none"/>
+  <path d="M 770 27 L 770 40 M 770 27 L 757 27" stroke="#333" stroke-width="0.8" fill="none"/>
+  <path d="M 30 133 L 30 120 M 30 133 L 43 133" stroke="#333" stroke-width="0.8" fill="none"/>
+  <path d="M 770 133 L 770 120 M 770 133 L 757 133" stroke="#333" stroke-width="0.8" fill="none"/>
+
+  <!-- Title -->
+  <text font-family="'Courier New', 'SF Mono', monospace" font-size="44" font-weight="bold" letter-spacing="14" fill="#e8e8e8" x="400" y="76" text-anchor="middle" dominant-baseline="middle">POTANET</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="540" y="61" width="3" height="28" fill="#e8e8e8" rx="1"/>
+
+  <!-- Subtitle -->
+  <text font-family="'Courier New', 'SF Mono', monospace" font-size="11" letter-spacing="5" fill="#555" x="400" y="106" text-anchor="middle">VIBE-CODER</text>
+</svg>
