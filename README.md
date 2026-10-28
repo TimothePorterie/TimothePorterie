@@ -18,22 +18,6 @@ Je construis ce qui me plaît, avec une équipe d’agents qui ne dort jamais. E
 
 <br/>
 
-### Dossiers en cours
-
-| Projet | Nature | Statut | |
-|---|---|---|---|
-| [**FleetWork**](https://fleetwork.ai) | Web | En chantier | Une entreprise entière, tenue par une flotte d’agents. Je fournis l’idée, eux le reste. |
-| **OneWallet** | Web | En chantier | Tous vos comptes réunis en un seul chiffre : ce qu’il reste à dépenser d’ici la fin du mois. |
-| [**Claude Bar**](https://github.com/TimothePorterie/claude-bar) | App macOS | En ligne | Le quota de Claude Code, d’un coup d’œil dans la barre macOS. |
-
-### Méthode
-
-1. **Briefing** : j’écoute ce que vous voulez.
-2. **Mission** : les agents s’y mettent.
-3. **Contrôle** : je relis tout.
-4. **Retouche** : j’ajuste et je finalise.
-5. **Livraison** : c’est en ligne.
-
 ### Ligne directe
 
 Une idée qui vous plaît ? Parlons-en, même sans dossier.
