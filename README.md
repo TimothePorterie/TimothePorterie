@@ -1,26 +1,29 @@
 <div align="center">
 
-<a href="https://potanet.work"><img src="header.svg" alt="PotaTim, agence Pota Network" width="800"/></a>
+<a href="https://potanet.work"><img src="header.svg" alt="PotaTim, Pota Network agency" width="800"/></a>
 
 <br/><br/>
 
-**Timothé Porterie, alias PotaTim.** Orchestrateur d’agents.
+**Timothé Porterie, aka PotaTim.** Agent orchestrator.
 
-Je construis ce qui me plaît, avec une équipe d’agents qui ne dort jamais. Ensuite, je retouche et je signe.
+I build what I like, with a team of agents that never sleeps. Then I polish it and sign it.
 
 <br/>
 
 <a href="https://potanet.work">
-  <img src="https://img.shields.io/badge/ENTRER_DANS_L%E2%80%99AGENCE-potanet.work-e4a72b?style=for-the-badge&labelColor=172036" alt="potanet.work"/>
+  <img src="https://img.shields.io/badge/ENTER_THE_AGENCY-potanet.work-e4a72b?style=for-the-badge&labelColor=172036" alt="potanet.work"/>
+</a>
+<a href="https://fleetwork.ai">
+  <img src="https://img.shields.io/badge/NOW_BUILDING-fleetwork.ai-3f7472?style=for-the-badge&labelColor=172036" alt="fleetwork.ai"/>
 </a>
 
 </div>
 
 <br/>
 
-### Ligne directe
+### Direct line
 
-Une idée qui vous plaît ? Parlons-en, même sans dossier.
+Got an idea you like? Let's talk, even without a brief.
 
 <a href="mailto:hello@potanet.work"><img src="https://img.shields.io/badge/E--MAIL-hello@potanet.work-f0dcae?style=flat-square&labelColor=172036" alt="E-mail"/></a>
 <a href="https://x.com/TimothePorterie"><img src="https://img.shields.io/badge/X-@TimothePorterie-3f7472?style=flat-square&logo=x&logoColor=f0dcae&labelColor=172036" alt="X"/></a>
